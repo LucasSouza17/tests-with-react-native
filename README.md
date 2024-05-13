@@ -1,5 +1,7 @@
 # Rocketseat React Native Testing Module
 
+![1710294180092](https://github.com/LucasSouza17/tests-with-react-native/assets/62787018/ac33e9d6-9b4a-4271-a84d-9ac203ba9afb)
+
 [![React Native](https://img.shields.io/badge/React%20Native-v0.64.2-blue)](https://reactnative.dev/)
 [![Jest](https://img.shields.io/badge/Jest-v27.0.6-blue)](https://jestjs.io/)
 [![React Testing Library](https://img.shields.io/badge/React%20Testing%20Library-v12.0.0-blue)](https://testing-library.com/docs/react-testing-library/intro)
