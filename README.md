@@ -1,4 +1,4 @@
-# Rocketseat React Native Testing Module
+# React Native Testing Module
 
 ![1710294180092](https://github.com/LucasSouza17/tests-with-react-native/assets/62787018/ac33e9d6-9b4a-4271-a84d-9ac203ba9afb)
 
